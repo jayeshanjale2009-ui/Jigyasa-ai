@@ -1,0 +1,7 @@
+name = "jigyasa-ai-backend"
+main = "src/index.js"
+compatibility_date = "2024-09-01"
+
+# ANTHROPIC_API_KEY is NOT set here.
+# Add it as a secret via wrangler CLI:
+# wrangler secret put ANTHROPIC_API_KEY

@@ -1,0 +1,16 @@
+{
+  "name": "jigyasa-ai-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Jigyasa AI backend chat proxy (Cloudflare Worker)"
+}
+Eof
+eof
+cat > backend/package.json << 'EOF'
+{
+  "name": "jigyasa-ai-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Jigyasa AI backend chat proxy (Cloudflare Worker)"
+}
+
